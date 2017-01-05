@@ -1,0 +1,21 @@
+/*this is the use of the css in the given website*/
+.container{
+	margin-top: 130px;
+}
+#results {
+	color: #fff;
+	padding:12px;
+}
+
+.success {
+	background-color: #5cb89c;
+	transition: 0.3s all ease-in-out;
+}
+
+.failure {
+	background-color: #d9934f;
+	transition: 0.3s all ease-in-out;
+}
+/*this is for the background image*/
+body{background-image: url("../img/wellsfargo.jpg")
+}
